@@ -1,4 +1,4 @@
-# 
+# quantitative Trading Bot for Polymarket - decentralized-trading and machine-learning-models is the best Polymarket trading-bot, featuring decentralized-trading and
 
 
 
